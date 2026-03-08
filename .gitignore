@@ -1,0 +1,17 @@
+.DS_Store
+
+# Generated build output
+dist/
+
+# Temporary analysis artifacts
+.analysis_frames/
+.scene_frames/
+desktop-top.png
+mobile-top.png
+
+# Local archives/raw imports
+*.zip
+telegram-cloud-document-*.mp4
+
+# Generic local noise
+*.log
